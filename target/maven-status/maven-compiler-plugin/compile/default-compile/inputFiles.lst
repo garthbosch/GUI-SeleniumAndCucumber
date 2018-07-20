@@ -1,9 +1,0 @@
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\utils\TestReports.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\commonFunctions\CommonBase.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\commonFunctions\ConfigurationManager.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\commonFunctions\SharedPageObjects.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\utils\SeleniumWebDriverUtils.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\stepDefinitions\UserStepDefinitions.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\utils\ValidationLogsAndCreateScreenshots.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\utils\Logging.java
-C:\Projects\GUI-SeleniumAndCucumber\src\test\java\testRunners\RunCucumberTest.java

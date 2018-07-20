@@ -14,11 +14,7 @@ It has one test scenario testing the Selenium Website.
 
 Documentation
 -------------
-* [Installation]
-
-Download a Framework
---------------
-* Maven - 
+* [Installation](https://github.com/garthbosch/GUI-SeleniumAndCucumber/tree/master/documentation/installation.md)
 
 Framework Architecture
 --------------
@@ -57,7 +53,7 @@ Framework Architecture
 		|	|	|...
 		
 Running test
---------------
+------------
 
 Go to your project directory from terminal and hit following commands
 * `mvn test -Dcucumber.options="classpath:features"`

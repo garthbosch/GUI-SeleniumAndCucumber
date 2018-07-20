@@ -1,9 +1,0 @@
-commonFunctions\CommonBase.class
-utils\TestReports.class
-utils\Logging.class
-utils\ValidationLogsAndCreateScreenshots.class
-utils\SeleniumWebDriverUtils.class
-commonFunctions\SharedPageObjects.class
-stepDefinitions\UserStepDefinitions.class
-commonFunctions\ConfigurationManager.class
-test\java\testRunners\RunCucumberTest.class
