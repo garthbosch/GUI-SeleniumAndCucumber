@@ -1,0 +1,20 @@
+(15:28:08,581) SeleniumWebDriverUtils : INFO  - Operating system running the test is : Windows 10
+(15:28:08,584) SeleniumWebDriverUtils : INFO  - Where the file is: C:\Projects\GUI-SeleniumAndCucumber\drivers\windows\chromedriver_win32\chromedriver.exe
+(15:28:08,586) CommonBase : INFO  - SETUP DETAILS:
+(15:28:08,588) CommonBase : INFO  - TEST ENVIRONMENT === TEST
+(15:28:08,589) CommonBase : INFO  - URL ================ https://www.seleniumhq.org/
+(15:28:08,592) CommonBase : INFO  - BROWSER TYPE ======= Chrome
+(15:28:08,594) CommonBase : INFO  - REMOTE EXECUTION === false
+(15:28:08,596) CommonBase : INFO  - REPORT LOCATION ==== C:\Projects\GUI-SeleniumAndCucumber\reports\Selenium_Download_Validation\Execution_20180720032808
+(15:28:08,596) CommonBase : INFO  - Setup completed successfully
+(15:28:08,605) SeleniumWebDriverUtils : INFO  - chrome.exe process being closed
+(15:28:26,703) SeleniumWebDriverUtils : INFO  - Done selecting Browser
+(15:28:26,703) SeleniumWebDriverUtils : INFO  - Selenium driver started
+(15:28:26,804) SeleniumWebDriverUtils : INFO  - The xpath element (//div[@id='mainContent']/h2)[1] found on the page
+(15:28:26,857) ValidationLogsAndCreateScreenshots : INFO  - ***VALIDATION SUCCESS*** Validate Selenium Home Page || Expected = What is Selenium? AND Actual = What is Selenium?
+(15:28:27,387) SeleniumWebDriverUtils : INFO  - The linktext element Download found on the page
+(15:28:28,474) SeleniumWebDriverUtils : INFO  - Successfully clicked on element Download with attribute type linktext
+(15:28:28,538) SeleniumWebDriverUtils : INFO  - The xpath element (//div[@id='mainContent']/h2)[1] found on the page
+(15:28:28,578) ValidationLogsAndCreateScreenshots : INFO  - ***VALIDATION SUCCESS*** Validate Selenium Downloads Page || Expected = Downloads AND Actual = Downloads
+(15:28:29,830) SeleniumWebDriverUtils : INFO  - chrome.exe process being closed
+(15:28:30,878) SeleniumWebDriverUtils : INFO  - Driver shutting down
